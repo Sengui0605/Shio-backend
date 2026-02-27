@@ -1,6 +1,0 @@
-fastapi
-uvicorn
-firebase-admin
-requests
-beautifulsoup4
-python-multipart
